@@ -1,0 +1,16 @@
+{
+  "name": "test-approche-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "express": "^4.19.2",
+    "mocha": "^10.4.0"
+  }
+}
